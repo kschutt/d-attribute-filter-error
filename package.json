@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.5",
+    "@gooddata/api-client-tiger": "^10.0.0",
+    "@gooddata/sdk-backend-tiger": "^10.0.0",
+    "@gooddata/sdk-ui-all": "^10.0.0"
   },
   "devDependencies": {
     "typescript": "^5",
